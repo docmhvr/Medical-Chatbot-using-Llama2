@@ -1,4 +1,7 @@
-# End-to-end-Medical-Chatbot-using-Llama2
+# Medical-Chatbot-using-Llama2
+
+A intelligent chatbot able to answer user queries related to the medical domain using Meta's Llama2 LLM, PineconeDB vector database using a Medical Book PDF as the data source, with a Flask user interface.
+![Project Architecture](/project_arch.jpg)
 
 # How to run?
 ### STEPS:
